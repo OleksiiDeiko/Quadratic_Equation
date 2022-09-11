@@ -1,4 +1,4 @@
-#Quadratic Equation Solver
+# Quadratic Equation Solver
 
 This programm solves quadratic equations
 
