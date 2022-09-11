@@ -1,7 +1,11 @@
-This program solves quadratic equations
+#Quadratic Equation Solver
 
-There are two modes: interactive and non-interactive.
+This programm solves quadratic equations
 
-In interactive mode user types a, b and c in console. In non-interactive mode user enters text file, where a, d and c are written. 
+There are two modes: 
+- interactive 
+- non-interactive
 
-Program prints equation with entered number, number of roots and roots themselves.
+In **interactive** mode user types a, b and c in console. In **non-interactive** mode user enters text file, where a, d and c are written. 
+
+Programm prints equation with entered number, number of roots and roots themselves.
